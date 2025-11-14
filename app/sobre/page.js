@@ -143,7 +143,7 @@ export default function SobrePage() {
               <h3 className="text-3xl font-bold mt-6 mb-2 uppercase tracking-wider">A ALMA</h3>
               <p className="text-yellow-400 font-bold mb-4">Camilla</p>
               <p className="text-gray-300 max-w-md">
-                A alma do Relicário. Ela transforma clientes em família e garante que cada noite seja uma experiência memorável.
+                A alma do Relica's. Ela transforma clientes em família e garante que cada noite seja uma experiência memorável.
               </p>
             </MotionDiv>
             
