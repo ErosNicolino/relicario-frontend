@@ -56,7 +56,7 @@ export default function Footer() {
               >
                 <Image 
                   src="/logo.png" 
-                  alt="Logo Relicário Rock Bar"
+                  alt="Logo Relica's Rock Bar"
                   fill
                   style={{ objectFit: 'contain' }}
                   unoptimized={true}
@@ -127,7 +127,7 @@ export default function Footer() {
         </div>
 
         <div className="max-w-7xl mx-auto mt-12 pt-8 border-t border-zinc-800 text-xs text-gray-500 text-center">
-          © {new Date().getFullYear()} Relicário Rock Bar. Todos os direitos reservados.
+          © {new Date().getFullYear()} Relica's Rock Bar. Todos os direitos reservados.
         </div>
       </div>
     </MotionSection>

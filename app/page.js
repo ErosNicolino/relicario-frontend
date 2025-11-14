@@ -94,11 +94,11 @@ export default async function HomePage() {
                 className="text-5xl md:text-7xl lg:text-8xl font-black mb-4 md:mb-6 tracking-wider uppercase" 
                 style={{ textShadow: '2px 2px 8px rgba(0, 0, 0, 0.7)' }} 
               >
-                Relicário
+                Relica's
               </h1>
               <p className="text-gray-300 mb-6 md:mb-8 leading-relaxed max-w-2xl text-base md:text-lg">
                 O melhor do rock 'n' roll em São Paulo. Venha curtir shows ao vivo, cerveja gelada e as melhores porções. 
-                O Relicário é a sua casa de rock, um ponto de encontro para amigos e amantes da boa música.
+                O Relica's é a sua casa de rock, um ponto de encontro para amigos e amantes da boa música.
               </p>
               <p className="text-yellow-400 mb-6 md:mb-8 font-bold text-sm md:text-base">
                 Veja a nossa <Link href="/agenda" className="underline cursor-pointer transition-colors duration-200 hover:text-white">Agenda de Shows</Link> e não perca nada.
@@ -144,7 +144,7 @@ export default async function HomePage() {
           >
             <Image 
               src="/sobre-foto1.jpg" 
-              alt="Interior aconchegante do Relicário Rock Bar" 
+              alt="Interior aconchegante do Relica's Rock Bar" 
               fill 
               sizes="(max-width: 768px) 100vw, 50vw"
               style={{ objectFit: 'cover' }} 
@@ -156,7 +156,7 @@ export default async function HomePage() {
               <span className="text-sm text-yellow-400 mb-2 font-bold">A ORIGEM</span>
               <h3 className="text-2xl md:text-3xl font-bold mb-4 uppercase tracking-wider">NOSSA HISTÓRIA</h3>
               <p className="text-gray-300 mb-6 leading-relaxed text-sm md:text-base">
-                O Relicário Rock Bar nasceu da paixão de uma família pelo rock 'n' roll. Um sonho de criar um lugar autêntico...
+                O Relica's Rock Bar nasceu da paixão de uma família pelo rock 'n' roll. Um sonho de criar um lugar autêntico...
               </p>
               <Link href="/sobre" className="px-6 py-2 border border-white w-fit font-bold hover:bg-white hover:text-zinc-900 transition-colors duration-200 text-sm">
                 Leia mais &raquo;
@@ -170,7 +170,7 @@ export default async function HomePage() {
           >
             <Image 
               src="/sobre-foto2.jpg" 
-              alt="Palco do Relicário Rock Bar" 
+              alt="Palco do Relica's Rock Bar" 
               fill 
               sizes="(max-width: 768px) 100vw, 50vw"
               style={{ objectFit: 'cover' }} 

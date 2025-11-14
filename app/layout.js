@@ -10,11 +10,11 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
   metadataBase: new URL('https://relicariorockbar.com.br'),
-  title: 'Relicário Rock Bar - Shows ao Vivo em São Paulo',
+  title: "Relica's Rock Bar - Shows ao Vivo em São Paulo",
   description: 'O melhor do rock em São Paulo. Shows ao vivo, cerveja gelada e porções incríveis. Venha curtir música de qualidade na Vila Madalena.',
   keywords: 'rock bar, shows ao vivo, São Paulo, Vila Madalena, música ao vivo, cerveja artesanal',
   openGraph: {
-    title: 'Relicário Rock Bar',
+    title: "Relica's Rock Bar",
     description: 'O melhor do rock em São Paulo',
     images: ['/hero-background2.jpg'],
     type: 'website',

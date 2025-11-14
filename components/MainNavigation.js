@@ -90,7 +90,7 @@ export default function MainNavigation() {
           >
             <Image 
               src="/logo.png" 
-              alt="Logo Relicário Rock Bar" 
+              alt="Logo Relica's Rock Bar" 
               fill 
               sizes="(max-width: 1024px) 80px, 96px"
               style={{ objectFit: 'contain' }} 

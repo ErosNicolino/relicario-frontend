@@ -22,10 +22,10 @@ async function getShows() {
 }
 
 export const metadata = {
-  title: 'Agenda de Shows - Relicário Rock Bar',
-  description: 'Confira a programação completa de shows ao vivo no Relicário Rock Bar. Não perca as melhores bandas de rock de São Paulo.',
+  title: "Agenda de Shows - Relica's Rock Bar",
+  description: "Confira a programação completa de shows ao vivo no Relica's Rock Bar. Não perca as melhores bandas de rock de São Paulo.",
   openGraph: {
-    title: 'Agenda de Shows - Relicário Rock Bar',
+    title: "Agenda de Shows - Relica's Rock Bar",
     description: 'A agenda de rock mais quente de SP.',
     images: ['/fund-madeira.jpg'], 
   },

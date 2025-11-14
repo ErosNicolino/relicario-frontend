@@ -69,7 +69,7 @@ export default function LocalizacaoPage() {
           </MotionDiv>
           <MotionDiv variants={itemVariants}>
             <p className="text-xl md:text-2xl text-gray-300 max-w-2xl mx-auto">
-              Seu refúgio de rock no coração de São Paulo. Encontre o Relicário.
+              Seu refúgio de rock no coração de São Paulo. Encontre o Relica's.
             </p>
           </MotionDiv>
         </div>
@@ -147,10 +147,6 @@ export default function LocalizacaoPage() {
                 <li className="flex items-center text-gray-300 font-bold">
                   <Car className="w-6 h-6 mr-3 text-yellow-400" />
                   Estacionamento: Ruas laterais e estacionamentos próximos.
-                </li>
-                <li className="flex items-center text-gray-300 font-bold">
-                  <Bus className="w-6 h-6 mr-3 text-yellow-400" />
-                  Transporte Público: Diversas linhas de ônibus na Av. XXX.
                 </li>
               </ul>
             </MotionDiv>
