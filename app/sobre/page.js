@@ -68,7 +68,7 @@ export default function SobrePage() {
           </MotionDiv>
           <MotionP variants={itemVariants} className="text-xl md:text-2xl text-gray-300 max-w-2xl mx-auto">
             Isto não é só um bar. É um templo. Um refúgio.
-            Isto é o Relicário.
+            Isto é o Relica's Rock Bar.
           </MotionP>
         </div>
       </MotionSection>

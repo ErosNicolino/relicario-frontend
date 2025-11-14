@@ -55,7 +55,7 @@ export default function HomeAgendaCarousel({ shows, strapiUrl }) {
           AGENDA DA SEMANA
         </MotionH2>
         <MotionP variants={itemVariants} className="text-gray-300 mb-8 md:mb-12 max-w-2xl text-base md:text-lg">
-          Confira quem vai subir no nosso palco. A casa abre às 18h e os shows começam pontualmente.
+          Confira quem vai subir no nosso palco. A casa abre às 19:30h.
           Não perca!
         </MotionP>
         <MotionDiv variants={itemVariants} className="relative">
